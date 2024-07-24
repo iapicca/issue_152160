@@ -18,5 +18,8 @@ dev_dependencies:
 
 flutter:
   uses-material-design: true
-  assets:
-    - assets/
+  fonts:
+    - family: PhosphorRegular
+      fonts:
+        - asset: assets/Phosphor.ttf
+          weight: 400
